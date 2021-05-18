@@ -1,6 +1,6 @@
 # female-thermoreg-review
 
-Data and code for paper "Female (Under) Representation in Exercise Thermoregulation Research: A Scoping Review"
+Data and code for paper "Female (Under) Representation in Exercise Thermoregulation Research"
 
 Authors: Kate P Hutchins, David N Borg, Aaron JE Bach, Joshua J Bon, Geoffrey M Minett, Ian B Stewart
 
